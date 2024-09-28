@@ -24,7 +24,7 @@
 }
 
 .background-image {
-    background-image: url('/img/vista-fotorrealista-pastoreo-vacas-naturaleza-al-aire-libre.jpg');
+    background-image: url('../img/vista-fotorrealista-pastoreo-vacas-naturaleza-al-aire-libre.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
